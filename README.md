@@ -1,3 +1,5 @@
+##整理的一些关于Web渲染、性能优化的文章
+
 [HTML5, WebKit, Chromium](http://blog.csdn.net/milado_nju)
 
 [HTML5 Rocks](http://www.html5rocks.com/en/)
@@ -27,3 +29,5 @@
 [High Performance Animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
 [求索：GSAP的动画快于jQuery吗？为何？](http://segmentfault.com/blog/humphry/1190000000391529)
+
+[Accelerated Rendering in Chrome](http://www.html5rocks.com/zh/tutorials/speed/layers/)
